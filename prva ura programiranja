@@ -1,0 +1,42 @@
+
+prvi_sestevanec = 10
+drugi_sestevanec = 15
+vsota = prvi_sestevanec + drugi_sestevanec 
+print(vsota)
+
+
+zmanjsevanec = 10
+odstevanec = 15
+vsota = zmanjsevanec - odstevanec
+print(vsota)
+
+faktor1 = 10
+faktor2 = 15
+vsota = faktor1 * faktor2
+print(vsota)
+
+bozo1 = 4
+bozo2 = 2
+vsota = bozo1 / bozo2
+print(vsota)
+
+
+prvi_sestevanec = input ("vnesi prvi sestevanec: ")
+prvo_stevilo =int(prvi_sestevanec)
+drugi_sestevanec = input("vnesi drugi sestevanec: ")
+drugo_stevilo = int (drugi_sestevanec)
+vsota = prvi_sestevanec + drugi_sestevanec 
+print(vsota)
+
+
+
+
+
+operacija = "-"
+if operacija == "-":
+    print ("odstevanje!")
+else:
+    print ("ni odstevanje!")
+   print("sestevanje!")
+  else:
+      print("operacije ne poznam")

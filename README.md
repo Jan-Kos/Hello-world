@@ -1,1 +1,0 @@
-print ("pozdravljeni, ucenci!")
